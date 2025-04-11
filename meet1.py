@@ -1,4 +1,4 @@
-# perbandingan kemungkinan nilai = ture/salah (bolean
+# perbandingan kemungkinan nilai = true/salah (bolean)
 # 1 > 2 =
 # <, >, >=, <=, !=, not
 # a = 2 digit nim pertama
