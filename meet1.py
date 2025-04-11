@@ -1,8 +1,8 @@
 # perbandingan kemungkinan nilai = ture/salah (bolean
 # 1 > 2 =
 # <, >, >=, <=, !=, not
-# a = 24
-# b = 67
+# a = 2 digit nim pertama
+# b = 2 digit nim terakhir
 
 a = 24
 b = 67
